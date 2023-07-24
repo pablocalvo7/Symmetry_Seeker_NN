@@ -1,6 +1,6 @@
 # Finding discrete symmetry groups via Machine Learning
 
-Pablo Calvo-Barlés,$^{1, 2}$ Sergio G. Rodrigo,$^{1, 3}$ Eduardo Sánchez-Burillo,$^{4}$ and Luis Martín-Moreno$^{1, 2}$
+Pablo Calvo-Barlés, $^{1, 2}$ Sergio G. Rodrigo, $^{1, 3}$ Eduardo Sánchez-Burillo, $^{4}$ and Luis Martín-Moreno $^{1, 2}$
 
 + $^{1}$ Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, 50009 Zaragoza, Spain
 + $^{2}$ Departamento de Física de la Materia Condensada, Universidad de Zaragoza, 50009 Zaragoza, Spain
