@@ -1,10 +1,7 @@
----
+# Finding discrete symmetry groups via Machine Learning
 
-**Finding discrete symmetry groups via Machine Learning**
----
 Pablo Calvo-Barlés,$^{1, 2}$ Sergio G. Rodrigo,$^{1, 3}$ Eduardo Sánchez-Burillo,$^{4}$ and Luis Martín-Moreno$^{1, 2}$
 
----
 + $^{1}$ Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, 50009 Zaragoza, Spain
 + $^{2}$ Departamento de Física de la Materia Condensada, Universidad de Zaragoza, 50009 Zaragoza, Spain
 + $^{3}$ Departamento de Física Aplicada, Universidad de Zaragoza, 50009 Zaragoza, Spain
@@ -12,8 +9,7 @@ Pablo Calvo-Barlés,$^{1, 2}$ Sergio G. Rodrigo,$^{1, 3}$ Eduardo Sánchez-Buril
 
 [1] Paper citation **(add hyperlink)** 
 
-**Abstract**
----
+# Abstract
 
 + This Jupyter notebook provides an implementation of the **Symmetry Seeker Neural Network (SSNN)** model based on Tensorflow-Keras. The NN model has been designed to identify discrete symmetries. With this code you will be able to:
  - Determine the matrix representation of all elements within a system's symmetry group by solving a supervised learning task.
