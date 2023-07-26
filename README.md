@@ -7,6 +7,8 @@ Pablo Calvo-Barlés, $^{1, 2}$ Sergio G. Rodrigo, $^{1, 3}$ Eduardo Sánchez-Bur
 + $^{3}$ Departamento de Física Aplicada, Universidad de Zaragoza, 50009 Zaragoza, Spain
 + $^{4}$ PredictLand S.L., 50001 Zaragoza, Spain
 
+[arXiv:2307.13457](https://arxiv.org/abs/2307.13457)
+
 # Abstract
 
 + This Jupyter notebook provides an implementation of the **Symmetry Seeker Neural Network (SSNN)** model based on Tensorflow-Keras. The NN model has been designed to identify discrete symmetries. With this code you will be able to:
