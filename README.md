@@ -7,7 +7,7 @@ Pablo Calvo-Barlés, $^{1, 2}$ Sergio G. Rodrigo, $^{1, 3}$ Eduardo Sánchez-Bur
 + $^{3}$ Departamento de Física Aplicada, Universidad de Zaragoza, 50009 Zaragoza, Spain
 + $^{4}$ PredictLand S.L., 50001 Zaragoza, Spain
 
-[arXiv:2307.13457](https://arxiv.org/abs/2307.13457)
+[Phys. Rev. E 110, 045304 (2024)](https://arxiv.org/abs/2307.13457](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.045304)
 
 # Abstract
 
